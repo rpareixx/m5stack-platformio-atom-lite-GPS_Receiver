@@ -4,6 +4,7 @@
 
 void setup(void) {
     M5_BEGIN();
+    Serial.print("Hallo Welt");
 }
 
 void loop(void) {
